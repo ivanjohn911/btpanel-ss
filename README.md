@@ -8,7 +8,7 @@
 <p>操作系统：Centos/Ubuntu</p>
 
 <h2>安装</h2>
-<p>git clone https://github.com/insoxin/btpanel-ss</p>
+<p>git clone https://github.com/ivanjohn911/btpanel-ss</p>
 <p>cd btpanel-ss</p>
 <p>bash install.sh install</p>
 
